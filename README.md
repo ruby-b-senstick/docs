@@ -4,6 +4,7 @@ SenStick を使う上で参考になる情報を掲載しています。
 
 - [はじめてSenStickを使う方へ](#first_step)
 - [SenStickへアクセスする](/connect_device.md)
+- [mruby/cプログラムの作成と実行](/mrubyc_programming.md)
 
 # <a name="fitst_step">はじめてSenStickを使う方へ</a>
 
